@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< Updated upstream
   - enabled: 1
     path: Assets/Ethan/Scene/EthanScene.unity
     guid: 84457a55c8bf2f44983a9821d9b34f4c
+=======
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MaxScene.unity
+    guid: a42ef0415b1520547a703aaf8558c77b
+>>>>>>> Stashed changes
   m_configObjects: {}

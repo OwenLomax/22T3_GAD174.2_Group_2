@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b55f780ada5c7041b7ca9a167c35858
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Verlag Compressed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 49104abf7921b2c47ba7d2bb0616d825, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
